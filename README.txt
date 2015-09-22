@@ -21,7 +21,3 @@ Instructions for running the code-
 
 Note - 
 Opencv2 code (assignment2.py) is running completly. 
-
-I have tried to implement meanshift algorithm on my own in mymeanshift.py
-It is partially incorrect and hence not running.  
-
